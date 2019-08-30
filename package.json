@@ -1,0 +1,29 @@
+{
+  "name": "v-uppercase",
+  "version": "1.0.0",
+  "description": "Diretiva para converter strings em maiúsculo",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js ./"
+  },
+  "keywords": [
+    "diretiva",
+    "uppercase",
+    "vuejs"
+  ],
+  "homepage": "https://github.com/douglas-fabiano/v-uppercase",
+  "repository": "https://github.com/douglas-fabiano/v-uppercase.git",
+  "bugs": {
+    "url": "https://github.com/douglas-fabiano/v-uppercase/issues"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "author": "Douglas Fabiano Batista <douglas.fabianob@gmail.com>",
+  "license": "ISC"
+}
