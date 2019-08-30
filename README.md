@@ -1,4 +1,4 @@
-# Diretiva para converter strings em maiúsculo
+# Diretiva para converter campos em maiúsculo para Vue.js
 ## Uso
 Faça o download com [Yarn](https://yarnpkg.com/pt-BR/)
 ```
