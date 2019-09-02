@@ -1,6 +1,6 @@
 {
   "name": "v-uppercase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Diretiva para converter campos em maiúsculo para Vue.js",
   "main": "index.js",
   "scripts": {
